@@ -1,0 +1,10 @@
+{
+  "name": "distros-stylus",
+  "version": "0.50.0",
+  "description": "minimal distribution files needed to run stylus in the browser",
+  "main": "stylus.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:distros/stylus.git"
+  }
+}
